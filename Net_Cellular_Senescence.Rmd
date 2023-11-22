@@ -1,0 +1,16 @@
+---
+title: "Red_Senescencia"
+author: "Alberto Santiago"
+date: "2023-11-22"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Senoterapéuticos mediante farmacología de redes.
+
+A medida que envejecemos se van acumulando una gran cantidad de células senescentes en el organismo que están implicadas en diversas enfermedades asociadas con el envejecimiento, como lo son las enfermedades neurodegenerativas, metabólicas y cardiovasculares. Por lo que el desarrollo de compuestos capaces de eliminar células senescentes o atenuar sus efectos negativos, promete ser un tratamiento efectivo para combatir el desarrollo de este tipo de enfermedades asociadas con la edad. Por lo anterior, el poder identificar y/o describir compuestos mediante farmacología de redes nos permitirá proponer nuevos senoterapéuticos que puedan ser considerados en la farmacoterapia. 
+
+As we age, a large number of senescent cells accumulate in the body and are involved in various diseases associated with aging, such as neurodegenerative, metabolic and cardiovascular diseases. Therefore, the development of compounds capable of eliminating senescent cells or attenuating their negative effects promises to be an effective treatment to combat the development of this type of age-related diseases. Therefore, being able to identify and/or describe compounds by means of network pharmacology will allow us to propose new senotherapeutics that can be considered in pharmacotherapy.
